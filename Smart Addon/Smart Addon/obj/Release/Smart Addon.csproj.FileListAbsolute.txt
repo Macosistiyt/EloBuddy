@@ -1,0 +1,11 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\Smart Addon.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\Smart Addon.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\Smart Addon.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\obj\Release\Smart Addon.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\obj\Release\Smart Addon.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2015\Projects\Smart Addon\Smart Addon\obj\Release\Smart Addon.pdb

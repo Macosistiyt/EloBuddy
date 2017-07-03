@@ -1,0 +1,10 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\Smart Addon.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\Smart Addon.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\Smart Addon.pdb
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\obj\Debug\Smart Addon.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Smart Addon\Smart Addon\obj\Debug\Smart Addon.pdb
